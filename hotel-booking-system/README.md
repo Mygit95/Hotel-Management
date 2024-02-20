@@ -5,7 +5,8 @@ cancel room bookings.
 **APIs Collection**
 -Extract the Postman APIs Collection from **Hotel-Management.postman_collection.json**
 located in the root folder. You can import this collection into Postman to access 
-and test all the APIs.
+and test all the APIs. I tried Adding Swagger, but due to dependency conflicts it's not
+working properly.
 
 **MySQL Database Setup**
 -Make sure you have MySQL installed and running. Then, create the necessary database table
