@@ -32,7 +32,7 @@ class HotelBookingApplicationTests {
 	private static final MySQLContainer<?> mySQLContainer = new MySQLContainer<>("mysql:8.0.28")
 			.withDatabaseName("hotelbooking")
 			.withUsername("root")
-			.withPassword("ashish");
+			.withPassword("root");
 
 	@Test
 	@Order(1)
